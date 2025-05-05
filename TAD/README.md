@@ -46,7 +46,7 @@ Una **Lista** es una colección ordenada de elementos.
 ### Tipos:
 - Lista simple
 - Lista doble
-- Lista circularff
+- Lista circular
 
 ### Operaciones típicas:
 - Insertar elemento
